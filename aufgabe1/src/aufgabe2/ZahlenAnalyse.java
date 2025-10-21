@@ -1,3 +1,5 @@
+package aufgabe2;
+
 public class ZahlenAnalyse {
 
     public static int maximaleZahl(int[] zahlen) {
